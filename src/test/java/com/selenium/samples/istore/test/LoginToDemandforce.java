@@ -28,7 +28,6 @@ public class LoginToDemandforce extends PageFactory{
 			
 	}
 	
-	//This does not work! NPE
 	@Test
 	public void login(){
 		loginLink.click();
